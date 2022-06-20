@@ -3,7 +3,7 @@ description: ''
 expected: ......
 patterns:
   - ・・・
-  - ...
+  - ' ...'
 allows: []
 specs: []
 tags: []
