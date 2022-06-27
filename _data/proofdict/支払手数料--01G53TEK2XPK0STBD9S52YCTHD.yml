@@ -2,7 +2,8 @@ id: 01G53TEK2XPK0STBD9S52YCTHD
 description: ''
 expected: 支払手数料
 patterns:
-  - 'お支払い手数料, 支払い手数料'
+  - お支払い手数料
+  - 支払い手数料
 allows: []
 specs: []
 tags: []
